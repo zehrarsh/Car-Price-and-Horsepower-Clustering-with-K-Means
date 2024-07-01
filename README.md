@@ -28,6 +28,8 @@ Plot the clusters to visualize the separation based on price and horsepower.
 Use various plots to interpret the results.
 Prediction:
 Predict the cluster for new car data based on user input (horsepower and price).
+![Alt text](Screenshot 2024-07-01 135433.png)
+
 
 # Results
 The project successfully identifies clusters of cars that share similar characteristics in terms of price and horsepower. These clusters can be useful for understanding market segments and making informed decisions in the automotive industry.
